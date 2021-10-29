@@ -12,5 +12,5 @@ import java.util.List;
 public interface MovieDao {
     List<Movie> findAll();
     boolean update(Movie movie);
-
+    boolean delete(int id);
 }
