@@ -1,6 +1,4 @@
 
-H
-java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ
 d
 java:S1192Ä"HDefine a constant instead of duplicating this literal "\t\t\t" 13 times.(º½Ä€øÿÿÿÿ
 \	java:S107A"BConstructor has 14 parameters, which is greater than 7 authorized.(ýø³¾ùÿÿÿÿ

@@ -5,8 +5,6 @@ c
 3src/main/java/fa/training/utils/HibernateUtils.java,4\6\468d45fed52c03c9cba94cce2b008b94f36d3c92
 Z
 *src/main/java/fa/training/dao/TypeDao.java,f\9\f9b947595b5440c9268d79de80a52802b83c0a64
-[
-+src/main/java/fa/training/entity/Movie.java,d\d\dd43ef489f0f584df83791ee3bce1fe968478fd0
 _
 /src/main/java/fa/training/dao/TypeMovieDao.java,3\1\311bd5d85198bd6c2eda6baf03214a2cd19ff54b
 Z
@@ -17,3 +15,7 @@ a
 1src/main/java/fa/training/entity/TypeMovieId.java,c\0\c01ae5d0ec81442bdbe7dedaac806f182139bcd0
 X
 (src/main/java/fa/training/main/Main.java,e\1\e1009a4650716e1a2577b11a3a8e9cf047527e8a
+[
++src/main/java/fa/training/dao/MovieDao.java,7\1\71d1d97da75a95c9b6def8bb3f48752a5788e686
+[
++src/main/java/fa/training/entity/Movie.java,d\d\dd43ef489f0f584df83791ee3bce1fe968478fd0
